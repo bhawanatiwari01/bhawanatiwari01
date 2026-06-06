@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Bhawana Tiwari
+## Aspiring full stack Web Developer
+Passionate about building scalable,user-friendly web applications and continiously learning modern web technologies.
 
-<!--
-**bhawanatiwari01/bhawanatiwari01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Skills
+Frontend Development: HTML5,CSS3,JavaScript(ES6+)
+Responsive Web Design
+React.Js
+Git&Github
+REST API Integration
+Figma
+Problem Solving
 
-Here are some ideas to get you started:
+### Currently learning
+MERN Stack Development
+Data Structure & Algorithms
+Backend Developmentt with Node.js & Express.js
+Database Management(MongoDB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+Full  Stack Development
+Web Application Development 
+Open Source Contribution
+Software Engineering
+
+### Projects
+Portfolio Website
+AI Virtual Assistant
+Weather Application
+Music Player Application
+Image Gallery Website
+Calculator Application
+Vehicle Booking Website
+
+### Contact
+bhavanatiwari734@gmail.com
+
+
