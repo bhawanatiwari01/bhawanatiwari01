@@ -12,16 +12,16 @@ Passionate about building scalable,user-friendly web applications and continious
 - Problem Solving
 
 ### Currently learning
-MERN Stack Development
-Data Structure & Algorithms
-Backend Developmentt with Node.js & Express.js
+MERN Stack Development,
+Data Structure & Algorithms,
+Backend Developmentt with Node.js & Express.js,
 Database Management(MongoDB)
 
 ### Areas of Interest
-Full  Stack Development
-Web Application Development 
-Open Source Contribution
-Software Engineering
+Full  Stack Development,
+Web Application Development,
+Open Source Contribution,
+Software Engineering,
 
 ### Projects
 - Portfolio Website
