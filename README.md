@@ -2,7 +2,7 @@
 ## Aspiring Full Stack Web Developer
 Passionate about building scalable,user-friendly web applications and continuously learning modern web technologies.
 
-### 🚀 Technical Skills
+### Technical Skills
 - Frontend Development: HTML5,CSS3,JavaScript(ES6+)
 - Responsive Web Design
 - React.Js
