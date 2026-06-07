@@ -24,13 +24,13 @@ Open Source Contribution,
 Software Engineering,
 
 ### Projects
-Portfolio Website - React.js based personal portfolio showcasing  projects and skills.
-AI Virtual Assistant - Javascript-based assistant with voice/text interaction and dynamic responses.
-Weather Application - Real-time weather data using API integration.
-Music Player - A web-based music player with play/pause and track controls built using HTML,CSS,,Javascript.
-Image Gallery - Responsive gallery with JavaScript DOM manipulation
-Calculator App - A simple Calculator supporting basic arithmatic operations using HTML,CSS,JavaScript.
-Vehicle Booking Website - A developing vehicle booking platfprm aimed at simplifying the process of vehicle selection and reservations through a smooth and interactive user experience.
+- Portfolio Website - React.js based personal portfolio showcasing  projects and skills.
+- AI Virtual Assistant - Javascript-based assistant with voice/text interaction and dynamic responses.
+- Weather Application - Real-time weather data using API integration.
+- Music Player - A web-based music player with play/pause and track controls built using HTML,CSS,,Javascript.
+- Image Gallery - Responsive gallery with JavaScript DOM manipulation
+- Calculator App - A simple Calculator supporting basic arithmatic operations using HTML,CSS,JavaScript.
+- Vehicle Booking Website - A developing vehicle booking platfprm aimed at simplifying the process of vehicle selection and reservations through a smooth and interactive user experience.
 
 ### Contact
 bhavanatiwari734@gmail.com
