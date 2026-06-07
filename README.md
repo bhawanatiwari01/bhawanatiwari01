@@ -1,6 +1,6 @@
 # Hi, I'm Bhawana Tiwari
 ## Aspiring full stack Web Developer
-Passionate about building scalable,user-friendly web applications and continiously learning modern web technologies.
+Passionate about building scalable,user-friendly web applications and continuously learning modern web technologies.
 
 ### Technical Skills
 - Frontend Development: HTML5,CSS3,JavaScript(ES6+)
@@ -13,8 +13,8 @@ Passionate about building scalable,user-friendly web applications and continious
 
 ### Currently learning
 MERN Stack Development,
-Data Structure & Algorithms,
-Backend Developmentt with Node.js & Express.js,
+Data Structures & Algorithms,
+Backend Development with Node.js & Express.js,
 Database Management(MongoDB)
 
 ### Areas of Interest
@@ -24,13 +24,13 @@ Open Source Contribution,
 Software Engineering,
 
 ### Projects
-- Portfolio Website
-- AI Virtual Assistant
-- Weather Application
-- Music Player Application
-- Image Gallery Website
-- Calculator Application
-- Vehicle Booking Website
+Portfolio Website - React.js based personal portfolio showcasing  projects and skills.
+AI Virtual Assistant - Javascript-based assistant with voice/text interaction and dynamic responses.
+Weather Application - Real-time weather data using API integration.
+Music Player - A web-based music player with play/pause and track controls built using HTML,CSS,,Javascript.
+Image Gallery - Reesponsive gallery with JavaScript DOM manipulation
+Calculator App - A simplle Calculator supporting basic arithematic operations using HTML,CSS,Javascript.
+Vehicle Booking Website - A developing vehicle booking platfprm aimed at simplifying the process of vehicle selection and reservations through a smooth and interactive user experience.
 
 ### Contact
 bhavanatiwari734@gmail.com
