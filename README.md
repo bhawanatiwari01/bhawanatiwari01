@@ -1,5 +1,5 @@
 # Hi, I'm Bhawana Tiwari
-## Aspiring full stack Web Developer
+## Aspiring Full Stack Web Developer
 Passionate about building scalable,user-friendly web applications and continuously learning modern web technologies.
 
 ### Technical Skills
