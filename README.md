@@ -32,7 +32,13 @@ Software Engineering,
 - Calculator App - A simple Calculator supporting basic arithmatic operations using HTML,CSS,JavaScript.
 - Vehicle Booking Website - A developing vehicle booking platfprm aimed at simplifying the process of vehicle selection and reservations through a smooth and interactive user experience.
 
+## 📜 Certifications
+- 🏦 JPMorgan Chase Software Engineering Simulation — Forage (Dec 2025)
+- 📊 Tata GenAI Powered Data Analytics Simulation — Forage (Dec 2025)
+- 🍃 MongoDB Atlas Search Analyzers — MongoDB University (Dec 2025)
+
 ### Contact
+www.linkedin.com/in/bhawana-tiwari-14a3b129a
 bhavanatiwari734@gmail.com
 
 
