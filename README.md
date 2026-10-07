@@ -13,7 +13,7 @@ Web Technologies:
 HTML5, CSS3, JavaScript
 
 Frontend:
-React.js — Basic
+React.js
 
 Development Concepts:
 OOPs, Collections, Exception Handling, JDBC, Basic REST API Concepts
